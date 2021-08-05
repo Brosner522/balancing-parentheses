@@ -1,4 +1,4 @@
-# Bonus 1: Balancing Parentheses
+## Bonus 1: Balancing Parentheses
 
 **Fork and then clone me!**
 
